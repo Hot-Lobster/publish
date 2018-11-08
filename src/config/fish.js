@@ -7,8 +7,8 @@ const Fish = () => {
   return (
     <div>
       <Parallax imageSrc={Shark} />
-      <div className="section white">
-        <div className="row container">
+      <div className="section">
+        <div className="row container contain">
           <h2 className="header">Reefs, fish and you.</h2>
           <p className="grey-text text-darken-3 lighten-3">
             I am an active keeper of saltwater reefs and personal advocate for

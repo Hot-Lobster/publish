@@ -6,9 +6,39 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #c6fdfb
+}
+
+.project {
+  height: 472px;
+  width: 493px;
+}
+
+#pagefooter {
+  background-color: #76eeff
+}
+
+nav {
+  background-color: #76eeff
+}
+
+.small {
+  background-color: #8deffd
+}
+
+.collapsible-header {
+  background-color: #76eeff
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.profile {
+  height: 500px;
+}
+
+.contain {
+  background-color: #a9f2fd
 }
