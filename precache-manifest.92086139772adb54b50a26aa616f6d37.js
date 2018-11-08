@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/publish/static/media/tang.9f97d2fe.jpg"
   },
   {
-    "revision": "84c9cd19d4740117eae33dee495b7773",
+    "revision": "a5399c19815f2b8b2fa4057058481354",
     "url": "/publish/index.html"
   }
 ];
