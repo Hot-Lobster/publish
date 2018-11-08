@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Home from "./config/home.js";
 import Projects from "./config/projects.js";
 import Nav from "./config/navtop.js";
@@ -9,7 +9,7 @@ import Foot from "./config/navbot.js";
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div>
           <Nav />
           <div>
@@ -21,7 +21,7 @@ class App extends Component {
           </div>
           <Foot />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
